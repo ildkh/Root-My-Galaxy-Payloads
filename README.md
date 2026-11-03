@@ -1,7 +1,7 @@
 # Root My Galaxy Payloads
 
 This repository contains the device-specific native side of
-[Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy):
+[Root My Galaxy](https://github.com/ildkh/Root-My-Galaxy):
 
 - exact firmware profiles and offsets;
 - the app-domain CVE-2026-43499 exploit source and compiled payload;
@@ -16,6 +16,7 @@ It intentionally does not contain Android application source code.
 | Payload | Compatible models | Kernel version | Status |
 | --- | --- | --- | --- |
 | `galaxy-s25-series-2026-06-07` | Galaxy S25, S25+, S25 Edge, and S25 Ultra regional models | `6.6.98` | Device-tested |
+| `q7q-F966BXXUCCZIH` | Galaxy Z Fold7 `SM-F966B`, firmware `F966BXXUCCZIH` | `6.6.127` | Artifact provided; device validation pending |
 | `e3q-S928USQS6DZF2` | Galaxy S24 Ultra `SM-S928U1` | `6.1.145` | Device-tested |
 | `e3q-S9280ZCS6DZF2` | Galaxy S24 Ultra China `SM-S9280` | `6.1.145` | Device-tested |
 | `e2s-S926BXXUEDZDR` | Galaxy S24+ `SM-S926B` | `6.1.157` | Device-tested |
