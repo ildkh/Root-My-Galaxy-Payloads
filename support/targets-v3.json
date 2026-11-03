@@ -127,7 +127,7 @@
       "kernelVersions": ["6.6.127"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/ildkh/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966BXXUCCZIH/cve-2026-43499-app.so",
-        "size": 104128
+        "size": 106240
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/ildkh/Root-My-Galaxy-Payloads/main/kernelsu/ksud-q7q-F966BXXUCCZIH-kdp",
